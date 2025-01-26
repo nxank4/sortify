@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build output
+out/
+dist/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+yarn-error.log
+
+# VSIX package
+*.vsix
+
+# Environment files
+*.env
+
+# Temporary files
+*.tmp
+*.temp
